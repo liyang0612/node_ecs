@@ -1,3 +1,7 @@
 2
 
+<<<<<<< HEAD
 master修改一下这行 develop v1.0.0
+=======
+deve 测试冲突 lop v1.0.0 
+>>>>>>> 2ab24eb... 冲突
